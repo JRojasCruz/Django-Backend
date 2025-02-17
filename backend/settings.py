@@ -161,5 +161,6 @@ AUTHENTICATION_BACKENDS = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:10000",  # Origen de tu frontend en React
-    "http://10.223.15.182:10000/"
+    "http://10.223.15.182:10000/",
+    "https://next-frontend-a34t.onrender.com",
 ]
